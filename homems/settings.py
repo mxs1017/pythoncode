@@ -77,12 +77,12 @@ WSGI_APPLICATION = 'homems.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '114.116.245.220',
+        'HOST': '119.3.177.83',
         'PORT': '3306',
         'USER': 'root',
         'PASSWORD': '123456',
         'CHARSET': 'utf8',
-        'NAME': 'homems'
+        'NAME': 'pandas'
     }
 }
 

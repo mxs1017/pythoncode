@@ -1,5 +1,5 @@
 FROM 114.116.245.220:5000/ubuntu:latest
-MAINTAINER pandas wangjuchn@outlook.com
+MAINTAINER pandas meng_nwu@163.com
 ADD . /usr/src
 VOLUME /usr/src
 WORKDIR /usr/src
